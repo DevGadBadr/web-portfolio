@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(214, 180, 250);
+}
+
+
+.main{
+    background-color: rgb(255, 255, 255);
+}
+
+.header{
+    background-color: rgb(104, 9, 96);
+    width: 1500px;
+    height: 210px;
+    z-index: 1;
+    display: block;
+    position: absolute;
+    background-image: linear-gradient(#c782d593,);
+}
+
+#circle{
+    background-color: rgb(200, 100, 211);
+    width: 500px;
+    height: 500px;
+    margin-top: 830px;
+    z-index: 3;
+    position: absolute;
+    border-radius: 0px 0px 0PX 500px;
+    margin-left: 995px ;
+    background-image: linear-gradient(#57146593,#f48de3de);
+    transform: rotate(90deg);
+
+}
+
+
+.logo{
+    background-color: rgba(37, 164, 122, 0.685);
+    border-radius: 50%;
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    text-indent: 21%;
+    z-index:2;
+    position: relative ;
+    color: rgb(255, 255, 255);
+    margin-left: 500px;
+}
+
+h1{
+    text-indent: 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    margin-top: 8%;
+}
+
+#welcome{
+    text-indent: 28%;
+}
+
+
+ol{
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    list-style: none;
+   
+}
+
+img{
+    margin: 30px;
+}
+
+footer{
+    text-align: center;
+}
+
+a{
+    font-size: 18px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
